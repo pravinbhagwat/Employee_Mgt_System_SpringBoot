@@ -1,11 +1,11 @@
 ## Employee_Mgt_System_SpringBoot
 
-###Objective:
+### Objective:
 The aim of this assignment is to create a simple Employee Management System using Spring Boot, demonstrating the integration of both PostgreSQL and MongoDB databases. The application should be able to perform basic CRUD (Create, Read, Update, Delete) operations on employee, department data.
 
-###Requirements :
+### Requirements :
 
-####Entities:
+#### Entities:
 #### I. Employee (Stored in PostgreSQL):
 * id: Long (Primary Key)
 * firstName: String
